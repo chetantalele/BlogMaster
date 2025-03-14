@@ -1,9 +1,14 @@
 import streamlit as st
 import google.generativeai as genai
 import random
+#how to import key from .env file
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
-api_key = "AIzaSyAsX7k8pjQ6b6z-_dQIk4vKqH5JgbxOXrY"
+api_key = os.getenv("GoogleGeminiAPIKey")
+
 genai.configure(api_key=api_key)
 
 generation_config = {
