@@ -33,7 +33,8 @@ Google Gemini API Key (for AI-based content generation)
 🔹 Setup Instructions
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/blogmaster.git
+git clone https://github.com/chetantalele/BlogMaster.git
+
 cd blogmaster
 
 2️⃣ Install Dependencies
@@ -41,6 +42,7 @@ pip install -r requirements.txt
 
 3️⃣ Configure API Key
 Create a .env file in the project root and add:
+
 GoogleGeminiAPIKey=your_api_key_here
 
 4️⃣ Run the Application
