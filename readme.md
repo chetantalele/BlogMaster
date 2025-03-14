@@ -11,6 +11,13 @@ This project is being done under the Smartbridge Generative AI Course.
 - 😄 Entertaining programmer jokes while you wait for your blog
 - 🎨 Clean and user-friendly interface
 
+## Demo Images
+
+![Screenshot 2025-03-14 181258](./Screenshot 2025-03-14 181258.png)
+![Screenshot 2025-03-14 181320](./Screenshot 2025-03-14 181320.png)
+![Screenshot 2025-03-14 181332](./Screenshot 2025-03-14 181332.png)
+![Screenshot 2025-03-14 181348](./Screenshot 2025-03-14 181348.png)
+
 ## Installation
 
 ### Prerequisites
