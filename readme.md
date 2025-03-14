@@ -13,10 +13,11 @@ This project is being done under the Smartbridge Generative AI Course.
 
 ## Demo Images
 
-![Screenshot 2025-03-14 181258](./Screenshot 2025-03-14 181258.png)
-![Screenshot 2025-03-14 181320](./Screenshot 2025-03-14 181320.png)
-![Screenshot 2025-03-14 181332](./Screenshot 2025-03-14 181332.png)
-![Screenshot 2025-03-14 181348](./Screenshot 2025-03-14 181348.png)
+![SS1](./IMAGES/SS1.png)
+![SS2](./IMAGES/SS2.png)
+![SS3](./IMAGES/SS3.png)
+![SS4](./IMAGES/SS4.png)
+
 
 ## Installation
 
